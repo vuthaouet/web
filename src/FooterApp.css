@@ -1,0 +1,10 @@
+
+.footer-list-link-item{
+    display: inline-block;
+}    
+.footer-list-link-item a{
+    text-decoration: none;
+}
+.footer-list-link-item:not(:last-child) {
+    margin-right: .5rem;
+}
